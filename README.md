@@ -11,7 +11,7 @@ In the integrated terminal window type:
 * `npm install intersystems-iris-native`
 * `node HelloWorld.js`
 
-From the Management Portal, switch to the USER namespace. Choose **System Explorer** > **Globals** to verify the `^testglobal` was created. 
+From the Management Portal, switch to the USER namespace. Choose `**System Explorer** > **Globals**` to verify the `^testglobal` was created. 
 
 
 ## Keep Exploring
